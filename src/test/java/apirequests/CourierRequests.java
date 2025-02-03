@@ -1,4 +1,4 @@
-package ApiRequests;
+package apirequests;
 
 import com.example.Courier;
 import io.qameta.allure.Step;

@@ -1,4 +1,4 @@
-package ApiRequests;
+package apirequests;
 
 import io.restassured.RestAssured;
 

@@ -1,6 +1,6 @@
-package ScooterTests;
+package scootertests;
 
-import ApiRequests.CourierRequests;
+import apirequests.CourierRequests;
 import com.example.Courier;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;

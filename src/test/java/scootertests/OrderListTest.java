@@ -1,7 +1,7 @@
-package ScooterTests;
+package scootertests;
 
 
-import ApiRequests.OrderRequest;
+import apirequests.OrderRequest;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.Before;
